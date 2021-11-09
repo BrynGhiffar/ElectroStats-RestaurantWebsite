@@ -1,6 +1,7 @@
 # Restaurant Website
 
 ElectroStats team members: Bryn & Hans
+Live Link: https://brynghiffar.github.io/ElectroStats-RestaurantWebsite/
 
 ## Description
 
